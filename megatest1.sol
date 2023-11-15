@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: MIT
-// UwU
+// https://twitter.com/MEGAERC20
+// https://www.megaerc20.com/
 
 pragma solidity ^0.8.20;
 
